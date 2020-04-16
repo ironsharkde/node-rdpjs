@@ -9,11 +9,10 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/citronneur/node-rdpjs"
+    "url": "https://github.com/ironsharkde/node-rdpjs"
   },
   "main": "lib/index.js",
   "dependencies": {
-    "bunyan": "^1.8.12",
     "lodash.isnumber": "^3.0.3"
   }
 }
